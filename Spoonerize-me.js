@@ -22,3 +22,6 @@ NOTE:
   "flat battery --> "bat flattery" 
   You are NOT expected to account for these, or any other nuances involved in spoonerisms.
 */
+
+
+// Solution
